@@ -1,6 +1,9 @@
 # Hi 👋, I'm Mayuri Shinde 
 
+## 💻 Software Engineer |🛠️ Full Stack Java Developer | 📱 Android Developer 
 
+![Profile views](https://camo.githubusercontent.com/708d309a74648348802e18de7221bc70415428d7cefe91ffacb8685917b0ae6c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68727567766564636f646573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+![Follower](https://camo.githubusercontent.com/02331eb84bfe6c9b9a36a387f618fb4819f781736523882b58e0eb20f50bd6c3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f68727567766564636f6465733f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c)
 - 🔭 I’m currently doing course at Giri's Tech Hub.
 - 🌱 I’m learning Java Full Stack Development.
 - 🤔 I’m looking for help with AI.
