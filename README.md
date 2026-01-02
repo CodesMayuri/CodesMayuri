@@ -43,6 +43,8 @@
 
 ### 🔗 Connect With Me
 [![Github](https://camo.githubusercontent.com/b2cad4b01f30fb1286430d619cbfa3b7f58b0d9cd22603f8458c61a55e46818c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/CodesMayuri)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurishinde111555@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-shinde-b92022259/)
 
 
 
